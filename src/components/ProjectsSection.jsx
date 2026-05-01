@@ -17,7 +17,7 @@ const projects = [
       "A Project where i Manage the Whole Social Media account for a company ",
     image: "/projects/project2.png",
     tags: ["Social Media", "Social Media" , "Meta" , "Facebook"],
-    demoUrl: "https://nbctraders.com/",
+    // demoUrl: "https://nbctraders.com/",
     githubUrl: "#",
   },
   {
@@ -57,7 +57,7 @@ const projects = [
       "HighKies Technology Discover our global presence and learn more about our leadership.Optimized audience reach and engagement using data-driven strategies and performance tracking.",
     image: "/projects/project6.png",
     tags: ["Ads", "digital Marketing"],
-    demoUrl: "https://highkies.com/",
+    // demoUrl: "https://highkies.com/",
     githubUrl: "#",
   },
   {
